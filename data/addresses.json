@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "children": [
+        { 
+			"id": 1,
+			"city": "Bern"
+		},
+		{ 
+			"id": 2,
+			"city": "Luzern"
+		}
+    ]
+}

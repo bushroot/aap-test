@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "children": [
+        { "name": "swisstopo", "id": 1, "allgemein_id": 1, "loaded": true },
+        { "name": "BAFU", "id": 2, "allgemein_id": 2, "loaded": true },
+        { "name": "BFE", "id": 3, "allgemein_id": 3, "loaded": true }
+    ]
+}

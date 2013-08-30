@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "children": [
+        { 
+			"dataname":"swisstopo", 
+			"id": 1
+		},
+		{ 
+			"dataname":"BAFU", 
+			"id": 2
+		},
+		{ 
+			"dataname":"BFE", 
+			"id": 3
+		}
+    ]
+}
