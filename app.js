@@ -5,12 +5,12 @@ Ext.Loader.setConfig({
 
 Ext.application({
 	name: 'Aap',
-	controllers: [
+//	controllers: [
 //		'Tree',
 //		'DataEdit',
 //		'DataAdd',
 //		'DataDisplay'
-	],
+//	],
 
 	stores: ['Addresses', 'Persons'],
 

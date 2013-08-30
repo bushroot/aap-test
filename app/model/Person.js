@@ -8,7 +8,7 @@ Ext.define('Aap.model.Person', {
 	associations: [
 		{ 
 			type: 'hasOne', 
-			model: 'Aap.model.Address' 
+			model: 'Aap.model.Address',
 		}
 	]
 });
