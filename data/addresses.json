@@ -3,11 +3,11 @@
     "children": [
         { 
 			"id": 1,
-			"city": "Bern"
+			"city": "Berlin"
 		},
 		{ 
 			"id": 2,
-			"city": "Luzern"
+			"city": "London"
 		}
     ]
 }
