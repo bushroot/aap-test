@@ -8,9 +8,7 @@ Ext.define('Aap.model.Person', {
 	],
 	proxy: {
     	type: 'ajax',
-    	api: {
-    	  read: 'data/persons.json'
-    	},
+    	url: 'data/persons.json',
     	reader: { 
 			type: 'json',
       		root: 'children',
@@ -20,7 +18,14 @@ Ext.define('Aap.model.Person', {
 	associations: [
 		{ 
 			type: 'hasOne', 
-			model: 'Aap.model.Address'
+			model: 'Aap.model.Address',
+			name: 'address'//,
+//			autoLoad: 'true',
+//			associationKey: 'children',
+//			primaryKey: 'id',
+//			foreignKey: 'address_id',
+//			getterName: 'getAddress',
+//			setterName: 'setAddress'
 		}
 	]
 });

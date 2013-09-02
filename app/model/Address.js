@@ -6,9 +6,7 @@ Ext.define('Aap.model.Address', {
 	],
 	proxy: {
     	type: 'ajax',
-    	api: {
-    	  read: 'data/addresses.json'
-    	},
+    	url: 'data/addresses.json',
     	reader: { 
 			type: 'json',
       		root: 'children',
