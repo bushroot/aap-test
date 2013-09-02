@@ -12,7 +12,7 @@ Ext.application({
 //		'DataDisplay'
 	],
 
-	stores: ['Addresses', 'Persons'],
+	stores: ['Addresses'],
 
 /*	launch: function(){
 		var store = this.getCompaniesStore();

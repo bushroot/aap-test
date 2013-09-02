@@ -1,0 +1,91 @@
+{
+    "success" : true,
+    "total"   : 5,
+    "data"    : [
+        {
+            "id"      : 1,
+            "userid"  : 2,
+            "ownerid" : 1,
+            "User"    : {
+                "id"        : 2,
+                "firstName" : "Person",
+                "lastName"  : "A",
+                "email"     : "personA@mitchellsimoens.com"
+            },
+            "Owner"   : {
+                "id"        : 1,
+                "firstName" : "Mitchell",
+                "lastName"  : "Simoens",
+                "email"     : "mitchellSimoens@mitchellsimoens.com"
+            }
+        },
+        {
+            "id"      : 2,
+            "userid"  : 3,
+            "ownerid" : 1,
+            "User"    : {
+                "id"        : 3,
+                "firstName" : "Person",
+                "lastName"  : "B",
+                "email"     : "personB@mitchellsimoens.com"
+            },
+            "Owner"   : {
+                "id"        : 1,
+                "firstName" : "Mitchell",
+                "lastName"  : "Simoens",
+                "email"     : "mitchellSimoens@mitchellsimoens.com"
+            }
+        },
+        {
+            "id"      : 3,
+            "userid"  : 4,
+            "ownerid" : 1,
+            "User"    : {
+                "id"        : 4,
+                "firstName" : "Person",
+                "lastName"  : "C",
+                "email"     : "personC@mitchellsimoens.com"
+            },
+            "Owner"   : {
+                "id"        : 1,
+                "firstName" : "Mitchell",
+                "lastName"  : "Simoens",
+                "email"     : "mitchellSimoens@mitchellsimoens.com"
+            }
+        },
+        {
+            "id"      : 4,
+            "userid"  : 5,
+            "ownerid" : 1,
+            "User"    : {
+                "id"        : 5,
+                "firstName" : "Person",
+                "lastName"  : "D",
+                "email"     : "personD@mitchellsimoens.com"
+            },
+            "Owner"   : {
+                "id"        : 1,
+                "firstName" : "Mitchell",
+                "lastName"  : "Simoens",
+                "email"     : "mitchellSimoens@mitchellsimoens.com"
+            }
+        },
+        {
+            "id"      : 5,
+            "userid"  : 6,
+            "ownerid" : 1,
+            "User"    : {
+                "id"        : 6,
+                "firstName" : "Person",
+                "lastName"  : "E",
+                "email"     : "personE@mitchellsimoens.com"
+            },
+            "Owner"   : {
+                "id"        : 1,
+                "firstName" : "Mitchell",
+                "lastName"  : "Simoens",
+                "email"     : "mitchellSimoens@mitchellsimoens.com"
+            }
+        }
+    ]
+}
